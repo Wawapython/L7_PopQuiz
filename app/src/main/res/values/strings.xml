@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">L7_20demo1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="high_score">最高分 %d</string>
+    <string name="title">Calculation</string>
+    <string name="btnGo">GO</string>
+    <string name="me">me</string>
+    <string name="lose">You loss</string>
+    <string name="win">You win</string>
+    <string name="win_record">New record : %d</string>
+    <string name="loss_record">Your score is %d</string>
+    <string name="btnAgain">Again</string>
+    <string name="left_num">1</string>
+    <string name="right_num">2</string>
+    <string name="cal">+</string>
+    <string name="input">Your answer</string>
+    <string name="correct">correct and go</string>
+
+</resources>
