@@ -34,8 +34,6 @@ public class LiveData extends AndroidViewModel {
             handle.set(KEY_OPERATION,0);
             handle.set(KEY_ANS,0);
             handle.set(KEY_CURRENT, 0);
-            //Log.d("msg", String.valueOf(handle.get(KEY_HIGH_SCORE)));
-
         }
         this.handle = handle;
     }
